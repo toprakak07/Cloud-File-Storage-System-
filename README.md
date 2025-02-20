@@ -53,14 +53,6 @@ This project is a **client-server application** implemented using **TCP sockets*
    - **Download** a file
    - **Delete** a file
 
-## File Structure
-```
-Project Folder
-│── server.py          # Server-side script
-│── client.py          # Client-side script
-│── README.md          # Project documentation
-│── file_owner_map.txt # Stores file-ownership mappings (auto-generated)
-```
 
 ## Notes
 - The server **must be running** before clients can connect.
